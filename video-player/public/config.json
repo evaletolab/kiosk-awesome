@@ -1,0 +1,14 @@
+{
+  "version" : "v0.2.0",
+  "boot_action" : "meta",
+  "show_cursor": false,
+  "show_uptime": false,
+  "volume":{
+    "min": 0.01,
+    "max": 0.8,
+    "default": 0.5,
+    "step": 0.08
+  },
+  "timeout_duration_ms": 30000,
+  "back_click_delay": 500
+}

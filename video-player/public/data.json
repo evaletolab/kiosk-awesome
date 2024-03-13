@@ -1,0 +1,3872 @@
+{
+  "playlists": {
+    "A": {
+      "title": {
+        "fr": "Être autochtone aujourd’hui",
+        "en": "Being Indigenous Today"
+      },
+      "playlist": [
+        {
+          "_id": "rec1Ic9HTWCJPYXlU",
+          "interviewee": {
+            "_id": "recoRrRIVr5nQ9nzA",
+            "Playlist_A": [
+              "rec1Ic9HTWCJPYXlU"
+            ],
+            "id": "Hindou",
+            "D copy": [
+              "recDK52AhkVHYWyob"
+            ],
+            "name": "Hindou Oumarou Ibrahim",
+            "C copy": [
+              "recG9o4jzbfZvBvSl",
+              "recyjhfOllbnqEcX8"
+            ],
+            "thumbnail": [
+              {
+                "id": "attYMu6ucA9cJjMQH",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/b9d321b24cc10d2907e1154fba7bf6d1/9745bf0c/Hindou.jpg",
+                "filename": "Hindou.jpg",
+                "size": 20528,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8853244346be78e9db2abd3ff14a747d/4a6299e9",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/db7894b583fa3b2e3c00b48a372187ff/fac3af92",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/5e525e93ba2bef32bb250809c42559aa/a1fada38",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "E copy": [
+              "rec484jyDf2HjNJfH"
+            ],
+            "ethnicity": {
+              "fr": "Mbororo",
+              "en": "Mbororo"
+            },
+            "country": {
+              "fr": "Tchad",
+              "en": "Chad"
+            }
+          },
+          "id": "A1",
+          "duration": "1’17’’",
+          "title": {
+            "fr": "Le peuple mbororo",
+            "en": "The Mbororo People"
+          },
+          "clipName": {
+            "fr": "A1_HINDOU_FR.mp4",
+            "en": "A1_HINDOU_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/A1.jpg"
+        },
+        {
+          "_id": "recExXy01O54WEmeU",
+          "interviewee": {
+            "_id": "recEH1GYv2y7HdGTt",
+            "Playlist_A": [
+              "recExXy01O54WEmeU"
+            ],
+            "id": "Shankar",
+            "name": "Shankar Limbu",
+            "C copy": [
+              "recUP0smeaY2SWYqg",
+              "recU1j4RlNzcFxcik"
+            ],
+            "thumbnail": [
+              {
+                "id": "attJaYgp8az6wg0Ar",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/68ab97b7e258787731a069fed6bd3f1e/a2109d92/Shankar.jpg",
+                "filename": "Shankar.jpg",
+                "size": 18434,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/d31996a29e0ae006e055acd753d8d6d2/5de27967",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/9f5a62fe2601db430b9948fb5600e572/c7b45a27",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b4e2f2ad2b88edd53a0d8137f862d6ee/727f9457",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recPV7KIvcIdyQSX7"
+            ],
+            "E copy": [
+              "recGkpgbmJCkysR7P"
+            ],
+            "B copy": [
+              "recRL0yrhTeJiTfWt"
+            ],
+            "ethnicity": {
+              "fr": "Limbu",
+              "en": "Limbu"
+            },
+            "country": {
+              "fr": "Népal",
+              "en": "Nepal"
+            }
+          },
+          "id": "A2",
+          "duration": "1’40’’",
+          "title": {
+            "fr": "Les peuples autochtones au Népal",
+            "en": "Indigenous Peoples in Nepal"
+          },
+          "clipName": {
+            "fr": "A2_SHANKAR_FR.mp4",
+            "en": "A2_SHANKAR_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/A2.jpg"
+        },
+        {
+          "_id": "rec924kOMNbfMX9KR",
+          "interviewee": {
+            "_id": "recIjJw2jpnoGyDTb",
+            "Playlist_A": [
+              "rec924kOMNbfMX9KR"
+            ],
+            "id": "Binota",
+            "name": "Binota Moy Dhamai",
+            "C copy": [
+              "recDVHQCE9Ke00Cio",
+              "recSoZtO34isP3Lfs"
+            ],
+            "thumbnail": [
+              {
+                "id": "attP9Fv029FWO8AQd",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/947260e37ad30246bcec9fecaf0502fe/c424536a/Binota.jpg",
+                "filename": "Binota.jpg",
+                "size": 34861,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/e6147bc94fec8e93cf681ddaaff257a5/91bb0e14",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/0916bbdaaf79bb1aa92119cde0912617/03ff0153",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/bb7bebce499384833343406c574bee60/d8de143b",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recpER1G5DzWMRbxu"
+            ],
+            "E copy": [
+              "recEPu6YY7FQBf9x0"
+            ],
+            "ethnicity": {
+              "fr": "Jumma-Tripura",
+              "en": "Jumma-Tripura"
+            },
+            "country": {
+              "fr": "Bangladesh",
+              "en": "Bangladesh"
+            }
+          },
+          "id": "A3",
+          "duration": "1’21’’",
+          "title": {
+            "fr": "Les peuples autochtones en Asie et au Bangladesh",
+            "en": "Indigenous Peoples in Asia and Bangladesh"
+          },
+          "clipName": {
+            "fr": "A3_BINOTA_FR.mp4",
+            "en": "A3_BINOTA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/A3.jpg"
+        },
+        {
+          "_id": "recBfbVf65IgqrX6x",
+          "interviewee": {
+            "_id": "recLVF1M8e9Q4tl9M",
+            "Playlist_A": [
+              "recBfbVf65IgqrX6x"
+            ],
+            "id": "Benjamin",
+            "D copy": [
+              "recu6WQ8OPytNS6NT"
+            ],
+            "A copy": [
+              "recuSau9WXiUosDsb",
+              "recQmcOFegd6fLPYF"
+            ],
+            "name": "Benjamin Andres Ilabaca De La Puente",
+            "C copy": [
+              "recSC53nLwTB3MebS"
+            ],
+            "thumbnail": [
+              {
+                "id": "att0tLPAy3iwMtkwG",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/f8f719b8b2605e4696a943f7d6927e55/23822bc0/Benjamin.jpg",
+                "filename": "Benjamin.jpg",
+                "size": 23828,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/3fbac1605e31dff3ca55c008c41bd412/021debb2",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/4afc2eb9402d33bc088f9c87acffd02b/16c106b6",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/9e178b04a22f35d7ed699108c0bc61ae/6f8ca091",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "E copy": [
+              "recsqJvKO3By1yw7J"
+            ],
+            "ethnicity": {
+              "fr": "Rapa Nui",
+              "en": "Rapa Nui"
+            },
+            "country": {
+              "fr": "Chili",
+              "en": "Chile"
+            }
+          },
+          "id": "A4",
+          "duration": "2’04’’",
+          "title": {
+            "fr": "Le peuple autochtone de Rapa Nui",
+            "en": "The Indigenous People of Rapa Nui"
+          },
+          "clipName": {
+            "fr": "A4_BENJAMIN_FR.mp4",
+            "en": "A4_BENJAMIN_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/A4.jpg"
+        },
+        {
+          "_id": "reczjknTPsvuvIhlN",
+          "interviewee": {
+            "_id": "rectZkQEjNO1SV1ea",
+            "Playlist_A": [
+              "reczjknTPsvuvIhlN",
+              "recr4sPh6jRfDw9nc",
+              "rec1GUsmzAbRC5Kc0",
+              "reclmpdOusm8yG8l9"
+            ],
+            "id": "Kenneth",
+            "name": "Kenneth Atsenhaienton Deer",
+            "thumbnail": [
+              {
+                "id": "attMgrYnIEvKybrOl",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/013ec9106f300076c40c03f2af3f878c/de1aa2da/Kenneth.jpg",
+                "filename": "Kenneth.jpg",
+                "size": 23564,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8b424200c7dd82c96f108012a71aaa41/3020d96d",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/43ec1fb98b1aa2c1110caf9b7f491b5b/54595636",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b472fe3d9f3c6685ecf340dab459c857/b1fc4171",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recPu9OfUXHNc9ZSq"
+            ],
+            "E copy": [
+              "recJBKTd1hsVbnME9"
+            ],
+            "ethnicity": {
+              "fr": "Mohawk",
+              "en": "Mohawk"
+            },
+            "country": {
+              "fr": "Canada",
+              "en": "Canada"
+            }
+          },
+          "id": "A5",
+          "duration": "2’42’’",
+          "title": {
+            "fr": "Deskaheh et la lutte pour les droits des peuples autochtones à Genève",
+            "en": "Deskaheh and the Struggle for the Rights of Indigenous Peoples in Geneva"
+          },
+          "clipName": {
+            "fr": "A5_KENNETH_FR.mp4",
+            "en": "A5_KENNETH_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/A5.jpg"
+        },
+        {
+          "_id": "recr4sPh6jRfDw9nc",
+          "interviewee": {
+            "_id": "rectZkQEjNO1SV1ea",
+            "Playlist_A": [
+              "reczjknTPsvuvIhlN",
+              "recr4sPh6jRfDw9nc",
+              "rec1GUsmzAbRC5Kc0",
+              "reclmpdOusm8yG8l9"
+            ],
+            "id": "Kenneth",
+            "name": "Kenneth Atsenhaienton Deer",
+            "thumbnail": [
+              {
+                "id": "attMgrYnIEvKybrOl",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/013ec9106f300076c40c03f2af3f878c/de1aa2da/Kenneth.jpg",
+                "filename": "Kenneth.jpg",
+                "size": 23564,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8b424200c7dd82c96f108012a71aaa41/3020d96d",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/43ec1fb98b1aa2c1110caf9b7f491b5b/54595636",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b472fe3d9f3c6685ecf340dab459c857/b1fc4171",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recPu9OfUXHNc9ZSq"
+            ],
+            "E copy": [
+              "recJBKTd1hsVbnME9"
+            ],
+            "ethnicity": {
+              "fr": "Mohawk",
+              "en": "Mohawk"
+            },
+            "country": {
+              "fr": "Canada",
+              "en": "Canada"
+            }
+          },
+          "id": "A6",
+          "duration": "0’52’’",
+          "title": {
+            "fr": "Les passeports autochtones",
+            "en": "Indigenous Peoples’ Passports"
+          },
+          "clipName": {
+            "fr": "A6_KENNETH_FR.mp4",
+            "en": "A6_KENNETH_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/A6.jpg"
+        },
+        {
+          "_id": "rec1GUsmzAbRC5Kc0",
+          "interviewee": {
+            "_id": "rectZkQEjNO1SV1ea",
+            "Playlist_A": [
+              "reczjknTPsvuvIhlN",
+              "recr4sPh6jRfDw9nc",
+              "rec1GUsmzAbRC5Kc0",
+              "reclmpdOusm8yG8l9"
+            ],
+            "id": "Kenneth",
+            "name": "Kenneth Atsenhaienton Deer",
+            "thumbnail": [
+              {
+                "id": "attMgrYnIEvKybrOl",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/013ec9106f300076c40c03f2af3f878c/de1aa2da/Kenneth.jpg",
+                "filename": "Kenneth.jpg",
+                "size": 23564,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8b424200c7dd82c96f108012a71aaa41/3020d96d",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/43ec1fb98b1aa2c1110caf9b7f491b5b/54595636",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b472fe3d9f3c6685ecf340dab459c857/b1fc4171",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recPu9OfUXHNc9ZSq"
+            ],
+            "E copy": [
+              "recJBKTd1hsVbnME9"
+            ],
+            "ethnicity": {
+              "fr": "Mohawk",
+              "en": "Mohawk"
+            },
+            "country": {
+              "fr": "Canada",
+              "en": "Canada"
+            }
+          },
+          "id": "A7",
+          "duration": "2’29’’",
+          "title": {
+            "fr": "Du racisme à la reconnaissance",
+            "en": "From Racism to Recognition"
+          },
+          "clipName": {
+            "fr": "A7_KENNETH_FR.mp4",
+            "en": "A7_KENNETH_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/A7.jpg"
+        },
+        {
+          "_id": "reclmpdOusm8yG8l9",
+          "interviewee": {
+            "_id": "rectZkQEjNO1SV1ea",
+            "Playlist_A": [
+              "reczjknTPsvuvIhlN",
+              "recr4sPh6jRfDw9nc",
+              "rec1GUsmzAbRC5Kc0",
+              "reclmpdOusm8yG8l9"
+            ],
+            "id": "Kenneth",
+            "name": "Kenneth Atsenhaienton Deer",
+            "thumbnail": [
+              {
+                "id": "attMgrYnIEvKybrOl",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/013ec9106f300076c40c03f2af3f878c/de1aa2da/Kenneth.jpg",
+                "filename": "Kenneth.jpg",
+                "size": 23564,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8b424200c7dd82c96f108012a71aaa41/3020d96d",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/43ec1fb98b1aa2c1110caf9b7f491b5b/54595636",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b472fe3d9f3c6685ecf340dab459c857/b1fc4171",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recPu9OfUXHNc9ZSq"
+            ],
+            "E copy": [
+              "recJBKTd1hsVbnME9"
+            ],
+            "ethnicity": {
+              "fr": "Mohawk",
+              "en": "Mohawk"
+            },
+            "country": {
+              "fr": "Canada",
+              "en": "Canada"
+            }
+          },
+          "id": "A8",
+          "duration": "1’48’’",
+          "title": {
+            "fr": "Reconnaître les peuples autochtones comme des gouvernements",
+            "en": "Recognizing Indigenous Peoples as Governments"
+          },
+          "clipName": {
+            "fr": "A8_KENNETH_FR.mp4",
+            "en": "A8_KENNETH_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/A8.jpg"
+        }
+      ]
+    },
+    "B": {
+      "title": {
+        "fr": "Le temps du soin et de la réparation",
+        "en": "The Time of Care and Repair"
+      },
+      "playlist": [
+        {
+          "_id": "recSrP4Ecu8JE31ku",
+          "duration": "1’45’’",
+          "id": "B9",
+          "interviewee": {
+            "_id": "recxjemG0UbptPA1p",
+            "id": "Duane",
+            "A copy": [
+              "recSrP4Ecu8JE31ku"
+            ],
+            "name": "Duane « Chili » Yazzie",
+            "C copy": [
+              "reczGu88Opbii1mnK",
+              "recf6X2y2wITBXC19"
+            ],
+            "thumbnail": [
+              {
+                "id": "attL2ZStn1fid6Juu",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/a285a9a29ee26f78a9e85694deb5d22c/d12e4ae3/Duane.jpg",
+                "filename": "Duane.jpg",
+                "size": 22406,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/1c19189a7768ce1605c5c1b0d5e354df/5929b966",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8008424544f17022d18d7db387b9b478/82303ced",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/a3c9c8d1cdc4e3f77abcebba2db74231/8fb8ca85",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recWStfWocKOE7uwa"
+            ],
+            "E copy": [
+              "recCkKZP9cypd8GBD"
+            ],
+            "ethnicity": {
+              "fr": "Diné (Navajo)",
+              "en": "Diné (Navajo)"
+            },
+            "country": {
+              "fr": "États-Unis",
+              "en": "United States"
+            }
+          },
+          "title": {
+            "fr": "Les gardiens de la Terre",
+            "en": "The Care Takers of the Earth"
+          },
+          "clipName": {
+            "fr": "B9_DUANE_FR.mp4",
+            "en": "B9_DUANE_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/B9.jpg"
+        },
+        {
+          "_id": "recuSau9WXiUosDsb",
+          "duration": "2’21’’",
+          "id": "B10",
+          "interviewee": {
+            "_id": "recLVF1M8e9Q4tl9M",
+            "Playlist_A": [
+              "recBfbVf65IgqrX6x"
+            ],
+            "id": "Benjamin",
+            "D copy": [
+              "recu6WQ8OPytNS6NT"
+            ],
+            "A copy": [
+              "recuSau9WXiUosDsb",
+              "recQmcOFegd6fLPYF"
+            ],
+            "name": "Benjamin Andres Ilabaca De La Puente",
+            "C copy": [
+              "recSC53nLwTB3MebS"
+            ],
+            "thumbnail": [
+              {
+                "id": "att0tLPAy3iwMtkwG",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/f8f719b8b2605e4696a943f7d6927e55/23822bc0/Benjamin.jpg",
+                "filename": "Benjamin.jpg",
+                "size": 23828,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/3fbac1605e31dff3ca55c008c41bd412/021debb2",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/4afc2eb9402d33bc088f9c87acffd02b/16c106b6",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/9e178b04a22f35d7ed699108c0bc61ae/6f8ca091",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "E copy": [
+              "recsqJvKO3By1yw7J"
+            ],
+            "ethnicity": {
+              "fr": "Rapa Nui",
+              "en": "Rapa Nui"
+            },
+            "country": {
+              "fr": "Chili",
+              "en": "Chile"
+            }
+          },
+          "title": {
+            "fr": "Prendre soin des côtes",
+            "en": "Taking Care of the Coast"
+          },
+          "clipName": {
+            "fr": "B10_BENJAMIN_FR.mp4",
+            "en": "B10_BENJAMIN_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/B10.jpg"
+        },
+        {
+          "_id": "recQmcOFegd6fLPYF",
+          "duration": "1’29’’",
+          "id": "B11",
+          "interviewee": {
+            "_id": "recLVF1M8e9Q4tl9M",
+            "Playlist_A": [
+              "recBfbVf65IgqrX6x"
+            ],
+            "id": "Benjamin",
+            "D copy": [
+              "recu6WQ8OPytNS6NT"
+            ],
+            "A copy": [
+              "recuSau9WXiUosDsb",
+              "recQmcOFegd6fLPYF"
+            ],
+            "name": "Benjamin Andres Ilabaca De La Puente",
+            "C copy": [
+              "recSC53nLwTB3MebS"
+            ],
+            "thumbnail": [
+              {
+                "id": "att0tLPAy3iwMtkwG",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/f8f719b8b2605e4696a943f7d6927e55/23822bc0/Benjamin.jpg",
+                "filename": "Benjamin.jpg",
+                "size": 23828,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/3fbac1605e31dff3ca55c008c41bd412/021debb2",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/4afc2eb9402d33bc088f9c87acffd02b/16c106b6",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/9e178b04a22f35d7ed699108c0bc61ae/6f8ca091",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "E copy": [
+              "recsqJvKO3By1yw7J"
+            ],
+            "ethnicity": {
+              "fr": "Rapa Nui",
+              "en": "Rapa Nui"
+            },
+            "country": {
+              "fr": "Chili",
+              "en": "Chile"
+            }
+          },
+          "title": {
+            "fr": "Le Tapu",
+            "en": "The Tapu"
+          },
+          "clipName": {
+            "fr": "B11_BENJAMIN_FR.mp4",
+            "en": "B11_BENJAMIN_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/B11.jpg"
+        }
+      ]
+    },
+    "C": {
+      "title": {
+        "fr": "Le temps des responsabilités réciproques",
+        "en": "The Time of Reciprocal Responsibilities"
+      },
+      "playlist": [
+        {
+          "_id": "recRL0yrhTeJiTfWt",
+          "interviewee": {
+            "_id": "recEH1GYv2y7HdGTt",
+            "Playlist_A": [
+              "recExXy01O54WEmeU"
+            ],
+            "id": "Shankar",
+            "name": "Shankar Limbu",
+            "C copy": [
+              "recUP0smeaY2SWYqg",
+              "recU1j4RlNzcFxcik"
+            ],
+            "thumbnail": [
+              {
+                "id": "attJaYgp8az6wg0Ar",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/68ab97b7e258787731a069fed6bd3f1e/a2109d92/Shankar.jpg",
+                "filename": "Shankar.jpg",
+                "size": 18434,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/d31996a29e0ae006e055acd753d8d6d2/5de27967",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/9f5a62fe2601db430b9948fb5600e572/c7b45a27",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b4e2f2ad2b88edd53a0d8137f862d6ee/727f9457",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recPV7KIvcIdyQSX7"
+            ],
+            "E copy": [
+              "recGkpgbmJCkysR7P"
+            ],
+            "B copy": [
+              "recRL0yrhTeJiTfWt"
+            ],
+            "ethnicity": {
+              "fr": "Limbu",
+              "en": "Limbu"
+            },
+            "country": {
+              "fr": "Népal",
+              "en": "Nepal"
+            }
+          },
+          "duration": "2’20’’ ",
+          "id": "C12",
+          "title": {
+            "fr": "Le Mundhum",
+            "en": "The Mundhum"
+          },
+          "clipName": {
+            "fr": "C12_SHANKAR_FR.mp4",
+            "en": "C12_SHANKAR_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/C12.jpg"
+        },
+        {
+          "_id": "recGqZcUuzKQdXEag",
+          "interviewee": {
+            "_id": "recf8Y5WFwBHilxVH",
+            "id": "Pablo",
+            "D copy": [
+              "recfs5G7CrW5tqBEM"
+            ],
+            "name": "Pablo Mis",
+            "thumbnail": [
+              {
+                "id": "attUg7gUwvutl6Nue",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/1af48540570293a96025d5dabfb4ebe3/bd345d0d/Pablo.jpg",
+                "filename": "Pablo.jpg",
+                "size": 26796,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/46827d02eb26906ff91622b2d2b2904e/b95c66ec",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/660c8a42f1d4c738e7a6074351ed25d0/9a3ec143",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/5a7be34012b4f8b17159802371395767/b9fcf10b",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recZi1W3zzwioL2el"
+            ],
+            "E copy": [
+              "recuKctV7JcnwRcyt"
+            ],
+            "B copy": [
+              "recGqZcUuzKQdXEag",
+              "recbfAsitzBeK4DsD"
+            ],
+            "ethnicity": {
+              "fr": "Maya Q’eqchi’",
+              "en": "Maya Q’eqchi’"
+            },
+            "country": {
+              "fr": "Belize",
+              "en": "Belize"
+            }
+          },
+          "duration": "2’40’’",
+          "id": "C13",
+          "title": {
+            "fr": "Les couleurs et la vie",
+            "en": "Colours and Life"
+          },
+          "clipName": {
+            "fr": "C13_PABLO_FR.mp4",
+            "en": "C13_PABLO_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/C13.jpg"
+        },
+        {
+          "_id": "recbfAsitzBeK4DsD",
+          "interviewee": {
+            "_id": "recf8Y5WFwBHilxVH",
+            "id": "Pablo",
+            "D copy": [
+              "recfs5G7CrW5tqBEM"
+            ],
+            "name": "Pablo Mis",
+            "thumbnail": [
+              {
+                "id": "attUg7gUwvutl6Nue",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/1af48540570293a96025d5dabfb4ebe3/bd345d0d/Pablo.jpg",
+                "filename": "Pablo.jpg",
+                "size": 26796,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/46827d02eb26906ff91622b2d2b2904e/b95c66ec",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/660c8a42f1d4c738e7a6074351ed25d0/9a3ec143",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/5a7be34012b4f8b17159802371395767/b9fcf10b",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recZi1W3zzwioL2el"
+            ],
+            "E copy": [
+              "recuKctV7JcnwRcyt"
+            ],
+            "B copy": [
+              "recGqZcUuzKQdXEag",
+              "recbfAsitzBeK4DsD"
+            ],
+            "ethnicity": {
+              "fr": "Maya Q’eqchi’",
+              "en": "Maya Q’eqchi’"
+            },
+            "country": {
+              "fr": "Belize",
+              "en": "Belize"
+            }
+          },
+          "duration": "1’12’’",
+          "id": "C14",
+          "title": {
+            "fr": "Protéger ses droits devant les tribunaux",
+            "en": "Protecting One’s Rights in Court"
+          },
+          "clipName": {
+            "fr": "C14_PABLO_FR.mp4",
+            "en": "C14_PABLO_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/C14.jpg"
+        },
+        {
+          "_id": "recn5mYoVpzhkjQeQ",
+          "interviewee": {
+            "_id": "recVEByf0s7qy1uzL",
+            "id": "Maja",
+            "name": "Maja Kristine Jåma",
+            "C copy": [
+              "recpu9e3jgASx09kr",
+              "recb7aMLXRprYoBiz"
+            ],
+            "thumbnail": [
+              {
+                "id": "attJbNsjCc9Z06sHK",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/30e89d5eb91f0cc80793dc22fd441f09/fd34012f/maya.jpg",
+                "filename": "maya.jpg",
+                "size": 31106,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/80b3e7a746531835ad7c3e62a4e79018/53b40dd7",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/cdf96fede047d5eada140c4ee2817c5b/239521ed",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/c51a06764bd09a224bdc775c8d7c656f/de7e952f",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "rec2Ga7PR5fHSXlax"
+            ],
+            "E copy": [
+              "recueuLcq0lkPafUO"
+            ],
+            "B copy": [
+              "recn5mYoVpzhkjQeQ"
+            ],
+            "ethnicity": {
+              "fr": "Sami",
+              "en": "Sami"
+            },
+            "country": {
+              "fr": "Sápmi, Norvège",
+              "en": "Sápmi, Norway"
+            }
+          },
+          "duration": "1’35",
+          "id": "C15",
+          "title": {
+            "fr": "Comprendre la nature",
+            "en": "Understanding Nature"
+          },
+          "clipName": {
+            "fr": "C15_MAJA_FR.mp4",
+            "en": "C15_MAJA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/C15.jpg"
+        }
+      ]
+    },
+    "D": {
+      "title": {
+        "fr": "Le temps de la crise",
+        "en": "The Time of Crisis"
+      },
+      "playlist": [
+        {
+          "_id": "recG9o4jzbfZvBvSl",
+          "duration": "1’50’’",
+          "interviewee": {
+            "_id": "recoRrRIVr5nQ9nzA",
+            "Playlist_A": [
+              "rec1Ic9HTWCJPYXlU"
+            ],
+            "id": "Hindou",
+            "D copy": [
+              "recDK52AhkVHYWyob"
+            ],
+            "name": "Hindou Oumarou Ibrahim",
+            "C copy": [
+              "recG9o4jzbfZvBvSl",
+              "recyjhfOllbnqEcX8"
+            ],
+            "thumbnail": [
+              {
+                "id": "attYMu6ucA9cJjMQH",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/b9d321b24cc10d2907e1154fba7bf6d1/9745bf0c/Hindou.jpg",
+                "filename": "Hindou.jpg",
+                "size": 20528,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8853244346be78e9db2abd3ff14a747d/4a6299e9",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/db7894b583fa3b2e3c00b48a372187ff/fac3af92",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/5e525e93ba2bef32bb250809c42559aa/a1fada38",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "E copy": [
+              "rec484jyDf2HjNJfH"
+            ],
+            "ethnicity": {
+              "fr": "Mbororo",
+              "en": "Mbororo"
+            },
+            "country": {
+              "fr": "Tchad",
+              "en": "Chad"
+            }
+          },
+          "id": "D16",
+          "title": {
+            "fr": "L’impact du changement climatique sur les peuples du Tchad",
+            "en": "The Impact of Climate Change on the Peoples of Chad"
+          },
+          "clipName": {
+            "fr": "D16_HINDOU_FR.mp4",
+            "en": "D16_HINDOU_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/D16.jpg"
+        },
+        {
+          "_id": "recyjhfOllbnqEcX8",
+          "duration": "1’16’’",
+          "interviewee": {
+            "_id": "recoRrRIVr5nQ9nzA",
+            "Playlist_A": [
+              "rec1Ic9HTWCJPYXlU"
+            ],
+            "id": "Hindou",
+            "D copy": [
+              "recDK52AhkVHYWyob"
+            ],
+            "name": "Hindou Oumarou Ibrahim",
+            "C copy": [
+              "recG9o4jzbfZvBvSl",
+              "recyjhfOllbnqEcX8"
+            ],
+            "thumbnail": [
+              {
+                "id": "attYMu6ucA9cJjMQH",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/b9d321b24cc10d2907e1154fba7bf6d1/9745bf0c/Hindou.jpg",
+                "filename": "Hindou.jpg",
+                "size": 20528,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8853244346be78e9db2abd3ff14a747d/4a6299e9",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/db7894b583fa3b2e3c00b48a372187ff/fac3af92",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/5e525e93ba2bef32bb250809c42559aa/a1fada38",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "E copy": [
+              "rec484jyDf2HjNJfH"
+            ],
+            "ethnicity": {
+              "fr": "Mbororo",
+              "en": "Mbororo"
+            },
+            "country": {
+              "fr": "Tchad",
+              "en": "Chad"
+            }
+          },
+          "id": "D17",
+          "title": {
+            "fr": "L’assèchement du Lac Tchad",
+            "en": "The Drying Up of Lake Chad"
+          },
+          "clipName": {
+            "fr": "D17_HINDOU_FR.mp4",
+            "en": "D17_HINDOU_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/D17.jpg"
+        },
+        {
+          "_id": "reczGu88Opbii1mnK",
+          "duration": "1’44’’",
+          "interviewee": {
+            "_id": "recxjemG0UbptPA1p",
+            "id": "Duane",
+            "A copy": [
+              "recSrP4Ecu8JE31ku"
+            ],
+            "name": "Duane « Chili » Yazzie",
+            "C copy": [
+              "reczGu88Opbii1mnK",
+              "recf6X2y2wITBXC19"
+            ],
+            "thumbnail": [
+              {
+                "id": "attL2ZStn1fid6Juu",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/a285a9a29ee26f78a9e85694deb5d22c/d12e4ae3/Duane.jpg",
+                "filename": "Duane.jpg",
+                "size": 22406,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/1c19189a7768ce1605c5c1b0d5e354df/5929b966",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8008424544f17022d18d7db387b9b478/82303ced",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/a3c9c8d1cdc4e3f77abcebba2db74231/8fb8ca85",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recWStfWocKOE7uwa"
+            ],
+            "E copy": [
+              "recCkKZP9cypd8GBD"
+            ],
+            "ethnicity": {
+              "fr": "Diné (Navajo)",
+              "en": "Diné (Navajo)"
+            },
+            "country": {
+              "fr": "États-Unis",
+              "en": "United States"
+            }
+          },
+          "id": "D18",
+          "title": {
+            "fr": "L’exploitation de l’uranium",
+            "en": "The Mining of Uranium"
+          },
+          "clipName": {
+            "fr": "D18_DUANE_FR.mp4",
+            "en": "D18_DUANE_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/D18.jpg"
+        },
+        {
+          "_id": "recf6X2y2wITBXC19",
+          "duration": "1’06’’",
+          "interviewee": {
+            "_id": "recxjemG0UbptPA1p",
+            "id": "Duane",
+            "A copy": [
+              "recSrP4Ecu8JE31ku"
+            ],
+            "name": "Duane « Chili » Yazzie",
+            "C copy": [
+              "reczGu88Opbii1mnK",
+              "recf6X2y2wITBXC19"
+            ],
+            "thumbnail": [
+              {
+                "id": "attL2ZStn1fid6Juu",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/a285a9a29ee26f78a9e85694deb5d22c/d12e4ae3/Duane.jpg",
+                "filename": "Duane.jpg",
+                "size": 22406,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/1c19189a7768ce1605c5c1b0d5e354df/5929b966",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8008424544f17022d18d7db387b9b478/82303ced",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/a3c9c8d1cdc4e3f77abcebba2db74231/8fb8ca85",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recWStfWocKOE7uwa"
+            ],
+            "E copy": [
+              "recCkKZP9cypd8GBD"
+            ],
+            "ethnicity": {
+              "fr": "Diné (Navajo)",
+              "en": "Diné (Navajo)"
+            },
+            "country": {
+              "fr": "États-Unis",
+              "en": "United States"
+            }
+          },
+          "id": "D19",
+          "title": {
+            "fr": "Il n'y a plus ni fleurs ni neige",
+            "en": "There Are no longer any Flowers or Snow"
+          },
+          "clipName": {
+            "fr": "D19_DUANE_FR.mp4",
+            "en": "D19_DUANE_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/D19.jpg"
+        },
+        {
+          "_id": "recpu9e3jgASx09kr",
+          "duration": "1’52’’",
+          "interviewee": {
+            "_id": "recVEByf0s7qy1uzL",
+            "id": "Maja",
+            "name": "Maja Kristine Jåma",
+            "C copy": [
+              "recpu9e3jgASx09kr",
+              "recb7aMLXRprYoBiz"
+            ],
+            "thumbnail": [
+              {
+                "id": "attJbNsjCc9Z06sHK",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/30e89d5eb91f0cc80793dc22fd441f09/fd34012f/maya.jpg",
+                "filename": "maya.jpg",
+                "size": 31106,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/80b3e7a746531835ad7c3e62a4e79018/53b40dd7",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/cdf96fede047d5eada140c4ee2817c5b/239521ed",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/c51a06764bd09a224bdc775c8d7c656f/de7e952f",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "rec2Ga7PR5fHSXlax"
+            ],
+            "E copy": [
+              "recueuLcq0lkPafUO"
+            ],
+            "B copy": [
+              "recn5mYoVpzhkjQeQ"
+            ],
+            "ethnicity": {
+              "fr": "Sami",
+              "en": "Sami"
+            },
+            "country": {
+              "fr": "Sápmi, Norvège",
+              "en": "Sápmi, Norway"
+            }
+          },
+          "id": "D20",
+          "title": {
+            "fr": "L’énergie éolienne, développement vert ?",
+            "en": "Is Wind Power Green?"
+          },
+          "clipName": {
+            "fr": "D20_MAJA_FR.mp4",
+            "en": "D20_MAJA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/D20.jpg"
+        },
+        {
+          "_id": "recb7aMLXRprYoBiz",
+          "duration": "0’45’’",
+          "interviewee": {
+            "_id": "recVEByf0s7qy1uzL",
+            "id": "Maja",
+            "name": "Maja Kristine Jåma",
+            "C copy": [
+              "recpu9e3jgASx09kr",
+              "recb7aMLXRprYoBiz"
+            ],
+            "thumbnail": [
+              {
+                "id": "attJbNsjCc9Z06sHK",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/30e89d5eb91f0cc80793dc22fd441f09/fd34012f/maya.jpg",
+                "filename": "maya.jpg",
+                "size": 31106,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/80b3e7a746531835ad7c3e62a4e79018/53b40dd7",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/cdf96fede047d5eada140c4ee2817c5b/239521ed",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/c51a06764bd09a224bdc775c8d7c656f/de7e952f",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "rec2Ga7PR5fHSXlax"
+            ],
+            "E copy": [
+              "recueuLcq0lkPafUO"
+            ],
+            "B copy": [
+              "recn5mYoVpzhkjQeQ"
+            ],
+            "ethnicity": {
+              "fr": "Sami",
+              "en": "Sami"
+            },
+            "country": {
+              "fr": "Sápmi, Norvège",
+              "en": "Sápmi, Norway"
+            }
+          },
+          "id": "D21",
+          "title": {
+            "fr": "La famine des rennes en hiver",
+            "en": "Winter Reindeer Starvation"
+          },
+          "clipName": {
+            "fr": "D21_MAJA_FR.mp4",
+            "en": "D21_MAJA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/D21.jpg"
+        },
+        {
+          "_id": "recUP0smeaY2SWYqg",
+          "duration": "2’30’’",
+          "interviewee": {
+            "_id": "recEH1GYv2y7HdGTt",
+            "Playlist_A": [
+              "recExXy01O54WEmeU"
+            ],
+            "id": "Shankar",
+            "name": "Shankar Limbu",
+            "C copy": [
+              "recUP0smeaY2SWYqg",
+              "recU1j4RlNzcFxcik"
+            ],
+            "thumbnail": [
+              {
+                "id": "attJaYgp8az6wg0Ar",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/68ab97b7e258787731a069fed6bd3f1e/a2109d92/Shankar.jpg",
+                "filename": "Shankar.jpg",
+                "size": 18434,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/d31996a29e0ae006e055acd753d8d6d2/5de27967",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/9f5a62fe2601db430b9948fb5600e572/c7b45a27",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b4e2f2ad2b88edd53a0d8137f862d6ee/727f9457",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recPV7KIvcIdyQSX7"
+            ],
+            "E copy": [
+              "recGkpgbmJCkysR7P"
+            ],
+            "B copy": [
+              "recRL0yrhTeJiTfWt"
+            ],
+            "ethnicity": {
+              "fr": "Limbu",
+              "en": "Limbu"
+            },
+            "country": {
+              "fr": "Népal",
+              "en": "Nepal"
+            }
+          },
+          "id": "D22",
+          "title": {
+            "fr": "Projets hydroélectriques, développement vert ?",
+            "en": "Are Hydroelectric Projects Green?"
+          },
+          "clipName": {
+            "fr": "D22_SHANKAR_FR.mp4",
+            "en": "D22_SHANKAR_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/D22.jpg"
+        },
+        {
+          "_id": "recU1j4RlNzcFxcik",
+          "duration": "2’39’’",
+          "interviewee": {
+            "_id": "recEH1GYv2y7HdGTt",
+            "Playlist_A": [
+              "recExXy01O54WEmeU"
+            ],
+            "id": "Shankar",
+            "name": "Shankar Limbu",
+            "C copy": [
+              "recUP0smeaY2SWYqg",
+              "recU1j4RlNzcFxcik"
+            ],
+            "thumbnail": [
+              {
+                "id": "attJaYgp8az6wg0Ar",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/68ab97b7e258787731a069fed6bd3f1e/a2109d92/Shankar.jpg",
+                "filename": "Shankar.jpg",
+                "size": 18434,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/d31996a29e0ae006e055acd753d8d6d2/5de27967",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/9f5a62fe2601db430b9948fb5600e572/c7b45a27",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b4e2f2ad2b88edd53a0d8137f862d6ee/727f9457",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recPV7KIvcIdyQSX7"
+            ],
+            "E copy": [
+              "recGkpgbmJCkysR7P"
+            ],
+            "B copy": [
+              "recRL0yrhTeJiTfWt"
+            ],
+            "ethnicity": {
+              "fr": "Limbu",
+              "en": "Limbu"
+            },
+            "country": {
+              "fr": "Népal",
+              "en": "Nepal"
+            }
+          },
+          "id": "D23",
+          "title": {
+            "fr": "Records de pollution à Katmandou",
+            "en": "Pollution Records in Katmandou"
+          },
+          "clipName": {
+            "fr": "D23_SHANKAR_FR.mp4",
+            "en": "D23_SHANKAR_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/D23.jpg"
+        },
+        {
+          "_id": "recDVHQCE9Ke00Cio",
+          "duration": "1’28’’",
+          "interviewee": {
+            "_id": "recIjJw2jpnoGyDTb",
+            "Playlist_A": [
+              "rec924kOMNbfMX9KR"
+            ],
+            "id": "Binota",
+            "name": "Binota Moy Dhamai",
+            "C copy": [
+              "recDVHQCE9Ke00Cio",
+              "recSoZtO34isP3Lfs"
+            ],
+            "thumbnail": [
+              {
+                "id": "attP9Fv029FWO8AQd",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/947260e37ad30246bcec9fecaf0502fe/c424536a/Binota.jpg",
+                "filename": "Binota.jpg",
+                "size": 34861,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/e6147bc94fec8e93cf681ddaaff257a5/91bb0e14",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/0916bbdaaf79bb1aa92119cde0912617/03ff0153",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/bb7bebce499384833343406c574bee60/d8de143b",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recpER1G5DzWMRbxu"
+            ],
+            "E copy": [
+              "recEPu6YY7FQBf9x0"
+            ],
+            "ethnicity": {
+              "fr": "Jumma-Tripura",
+              "en": "Jumma-Tripura"
+            },
+            "country": {
+              "fr": "Bangladesh",
+              "en": "Bangladesh"
+            }
+          },
+          "id": "D24",
+          "title": {
+            "fr": "La sécurité alimentaire",
+            "en": "Food Safety"
+          },
+          "clipName": {
+            "fr": "D24_BINOTA_FR.mp4",
+            "en": "D24_BINOTA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/D24.jpg"
+        },
+        {
+          "_id": "recSoZtO34isP3Lfs",
+          "duration": "2’33’’",
+          "interviewee": {
+            "_id": "recIjJw2jpnoGyDTb",
+            "Playlist_A": [
+              "rec924kOMNbfMX9KR"
+            ],
+            "id": "Binota",
+            "name": "Binota Moy Dhamai",
+            "C copy": [
+              "recDVHQCE9Ke00Cio",
+              "recSoZtO34isP3Lfs"
+            ],
+            "thumbnail": [
+              {
+                "id": "attP9Fv029FWO8AQd",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/947260e37ad30246bcec9fecaf0502fe/c424536a/Binota.jpg",
+                "filename": "Binota.jpg",
+                "size": 34861,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/e6147bc94fec8e93cf681ddaaff257a5/91bb0e14",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/0916bbdaaf79bb1aa92119cde0912617/03ff0153",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/bb7bebce499384833343406c574bee60/d8de143b",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recpER1G5DzWMRbxu"
+            ],
+            "E copy": [
+              "recEPu6YY7FQBf9x0"
+            ],
+            "ethnicity": {
+              "fr": "Jumma-Tripura",
+              "en": "Jumma-Tripura"
+            },
+            "country": {
+              "fr": "Bangladesh",
+              "en": "Bangladesh"
+            }
+          },
+          "id": "D25",
+          "title": {
+            "fr": "La crise de l’eau",
+            "en": "The Water Crisis"
+          },
+          "clipName": {
+            "fr": "D25_BINOTA_FR.mp4",
+            "en": "D25_BINOTA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/D25.jpg"
+        },
+        {
+          "_id": "recSC53nLwTB3MebS",
+          "duration": "2’07’’",
+          "interviewee": {
+            "_id": "recLVF1M8e9Q4tl9M",
+            "Playlist_A": [
+              "recBfbVf65IgqrX6x"
+            ],
+            "id": "Benjamin",
+            "D copy": [
+              "recu6WQ8OPytNS6NT"
+            ],
+            "A copy": [
+              "recuSau9WXiUosDsb",
+              "recQmcOFegd6fLPYF"
+            ],
+            "name": "Benjamin Andres Ilabaca De La Puente",
+            "C copy": [
+              "recSC53nLwTB3MebS"
+            ],
+            "thumbnail": [
+              {
+                "id": "att0tLPAy3iwMtkwG",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/f8f719b8b2605e4696a943f7d6927e55/23822bc0/Benjamin.jpg",
+                "filename": "Benjamin.jpg",
+                "size": 23828,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/3fbac1605e31dff3ca55c008c41bd412/021debb2",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/4afc2eb9402d33bc088f9c87acffd02b/16c106b6",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/9e178b04a22f35d7ed699108c0bc61ae/6f8ca091",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "E copy": [
+              "recsqJvKO3By1yw7J"
+            ],
+            "ethnicity": {
+              "fr": "Rapa Nui",
+              "en": "Rapa Nui"
+            },
+            "country": {
+              "fr": "Chili",
+              "en": "Chile"
+            }
+          },
+          "id": "D26",
+          "title": {
+            "fr": "Le tourisme de masse",
+            "en": "Mass Tourism"
+          },
+          "clipName": {
+            "fr": "D26_BENJAMIN_FR.mp4",
+            "en": "D26_BENJAMIN_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/D26.jpg"
+        },
+        {
+          "_id": "recvgl9ZlQq6vk2A8",
+          "duration": "1’30’’",
+          "interviewee": {
+            "_id": "recP2jDJlkGyVRWUL",
+            "id": "Moha",
+            "name": "Moha Tawja",
+            "C copy": [
+              "recvgl9ZlQq6vk2A8"
+            ],
+            "thumbnail": [
+              {
+                "id": "att6Yy8DUQ7XFvQiY",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/5a74c646eb9fb864c54951245f92c6a1/a81db1d4/Moha.jpg",
+                "filename": "Moha.jpg",
+                "size": 21537,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b1c167fecf44865572d8e9b2b185cf4d/e50ae36e",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/94b50673deb6224a68ac9eac325fe8a0/8e7b45e9",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/a1c6bc1de565ec99e2c9f72bb64c0151/080e5c99",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recuGF3RgI4UyqVMF"
+            ],
+            "E copy": [
+              "reca3pCoIMu6ZqLWD"
+            ],
+            "ethnicity": {
+              "fr": "Amazigh",
+              "en": "Amazigh"
+            },
+            "country": {
+              "fr": "Maroc",
+              "en": "Morocco"
+            }
+          },
+          "id": "D27",
+          "title": {
+            "fr": "Action et gains",
+            "en": "Action and Gains"
+          },
+          "clipName": {
+            "fr": "D27_MOHA_FR.mp4",
+            "en": "D27_MOHA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/D27.jpg"
+        }
+      ]
+    },
+    "E": {
+      "title": {
+        "fr": "Le temps de la rencontre",
+        "en": "The Time to Come Together"
+      },
+      "playlist": [
+        {
+          "_id": "recDK52AhkVHYWyob",
+          "id": "E28",
+          "duration": "1’40’’",
+          "interviewee": {
+            "_id": "recoRrRIVr5nQ9nzA",
+            "Playlist_A": [
+              "rec1Ic9HTWCJPYXlU"
+            ],
+            "id": "Hindou",
+            "D copy": [
+              "recDK52AhkVHYWyob"
+            ],
+            "name": "Hindou Oumarou Ibrahim",
+            "C copy": [
+              "recG9o4jzbfZvBvSl",
+              "recyjhfOllbnqEcX8"
+            ],
+            "thumbnail": [
+              {
+                "id": "attYMu6ucA9cJjMQH",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/b9d321b24cc10d2907e1154fba7bf6d1/9745bf0c/Hindou.jpg",
+                "filename": "Hindou.jpg",
+                "size": 20528,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8853244346be78e9db2abd3ff14a747d/4a6299e9",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/db7894b583fa3b2e3c00b48a372187ff/fac3af92",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/5e525e93ba2bef32bb250809c42559aa/a1fada38",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "E copy": [
+              "rec484jyDf2HjNJfH"
+            ],
+            "ethnicity": {
+              "fr": "Mbororo",
+              "en": "Mbororo"
+            },
+            "country": {
+              "fr": "Tchad",
+              "en": "Chad"
+            }
+          },
+          "title": {
+            "fr": "Chacun a un rôle à jouer",
+            "en": "Everyone Has a Part to Play"
+          },
+          "clipName": {
+            "fr": "E28_HINDOU_FR.mp4",
+            "en": "E28_HINDOU_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/E28.jpg"
+        },
+        {
+          "_id": "recfs5G7CrW5tqBEM",
+          "id": "E29",
+          "duration": "1’56’’",
+          "interviewee": {
+            "_id": "recf8Y5WFwBHilxVH",
+            "id": "Pablo",
+            "D copy": [
+              "recfs5G7CrW5tqBEM"
+            ],
+            "name": "Pablo Mis",
+            "thumbnail": [
+              {
+                "id": "attUg7gUwvutl6Nue",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/1af48540570293a96025d5dabfb4ebe3/bd345d0d/Pablo.jpg",
+                "filename": "Pablo.jpg",
+                "size": 26796,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/46827d02eb26906ff91622b2d2b2904e/b95c66ec",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/660c8a42f1d4c738e7a6074351ed25d0/9a3ec143",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/5a7be34012b4f8b17159802371395767/b9fcf10b",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recZi1W3zzwioL2el"
+            ],
+            "E copy": [
+              "recuKctV7JcnwRcyt"
+            ],
+            "B copy": [
+              "recGqZcUuzKQdXEag",
+              "recbfAsitzBeK4DsD"
+            ],
+            "ethnicity": {
+              "fr": "Maya Q’eqchi’",
+              "en": "Maya Q’eqchi’"
+            },
+            "country": {
+              "fr": "Belize",
+              "en": "Belize"
+            }
+          },
+          "title": {
+            "fr": "A’bink : savoir écouter",
+            "en": "A’bink: Knowing How to Listen"
+          },
+          "clipName": {
+            "fr": "E29_PABLO_FR.mp4",
+            "en": "E29_PABLO_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/E29.jpg"
+        },
+        {
+          "_id": "recu6WQ8OPytNS6NT",
+          "id": "E30",
+          "duration": "1’41’’",
+          "interviewee": {
+            "_id": "recLVF1M8e9Q4tl9M",
+            "Playlist_A": [
+              "recBfbVf65IgqrX6x"
+            ],
+            "id": "Benjamin",
+            "D copy": [
+              "recu6WQ8OPytNS6NT"
+            ],
+            "A copy": [
+              "recuSau9WXiUosDsb",
+              "recQmcOFegd6fLPYF"
+            ],
+            "name": "Benjamin Andres Ilabaca De La Puente",
+            "C copy": [
+              "recSC53nLwTB3MebS"
+            ],
+            "thumbnail": [
+              {
+                "id": "att0tLPAy3iwMtkwG",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/f8f719b8b2605e4696a943f7d6927e55/23822bc0/Benjamin.jpg",
+                "filename": "Benjamin.jpg",
+                "size": 23828,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/3fbac1605e31dff3ca55c008c41bd412/021debb2",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/4afc2eb9402d33bc088f9c87acffd02b/16c106b6",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/9e178b04a22f35d7ed699108c0bc61ae/6f8ca091",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "E copy": [
+              "recsqJvKO3By1yw7J"
+            ],
+            "ethnicity": {
+              "fr": "Rapa Nui",
+              "en": "Rapa Nui"
+            },
+            "country": {
+              "fr": "Chili",
+              "en": "Chile"
+            }
+          },
+          "title": {
+            "fr": "Reconnaître les savoirs autochtones",
+            "en": "Recognizing Indigenous Knowledge"
+          },
+          "clipName": {
+            "fr": "E30_BENJAMIN_FR.mp4",
+            "en": "E30_BENJAMIN_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/E30.jpg"
+        }
+      ]
+    },
+    "P": {
+      "title": {
+        "fr": "Présentations",
+        "en": "Presentations"
+      },
+      "playlist": [
+        {
+          "_id": "recueuLcq0lkPafUO",
+          "interviewee": {
+            "_id": "recVEByf0s7qy1uzL",
+            "id": "Maja",
+            "name": "Maja Kristine Jåma",
+            "C copy": [
+              "recpu9e3jgASx09kr",
+              "recb7aMLXRprYoBiz"
+            ],
+            "thumbnail": [
+              {
+                "id": "attJbNsjCc9Z06sHK",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/30e89d5eb91f0cc80793dc22fd441f09/fd34012f/maya.jpg",
+                "filename": "maya.jpg",
+                "size": 31106,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/80b3e7a746531835ad7c3e62a4e79018/53b40dd7",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/cdf96fede047d5eada140c4ee2817c5b/239521ed",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/c51a06764bd09a224bdc775c8d7c656f/de7e952f",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "rec2Ga7PR5fHSXlax"
+            ],
+            "E copy": [
+              "recueuLcq0lkPafUO"
+            ],
+            "B copy": [
+              "recn5mYoVpzhkjQeQ"
+            ],
+            "ethnicity": {
+              "fr": "Sami",
+              "en": "Sami"
+            },
+            "country": {
+              "fr": "Sápmi, Norvège",
+              "en": "Sápmi, Norway"
+            }
+          },
+          "duration": "1’19’’",
+          "id": "P31",
+          "title": {
+            "fr": "undefined [TRANSLATION NOT FOUND]",
+            "en": "undefined [TRANSLATION NOT FOUND]"
+          },
+          "clipName": {
+            "fr": "P31_MAJA_FR.mp4",
+            "en": "P31_MAJA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/P31.jpg"
+        },
+        {
+          "_id": "recJBKTd1hsVbnME9",
+          "interviewee": {
+            "_id": "rectZkQEjNO1SV1ea",
+            "Playlist_A": [
+              "reczjknTPsvuvIhlN",
+              "recr4sPh6jRfDw9nc",
+              "rec1GUsmzAbRC5Kc0",
+              "reclmpdOusm8yG8l9"
+            ],
+            "id": "Kenneth",
+            "name": "Kenneth Atsenhaienton Deer",
+            "thumbnail": [
+              {
+                "id": "attMgrYnIEvKybrOl",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/013ec9106f300076c40c03f2af3f878c/de1aa2da/Kenneth.jpg",
+                "filename": "Kenneth.jpg",
+                "size": 23564,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8b424200c7dd82c96f108012a71aaa41/3020d96d",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/43ec1fb98b1aa2c1110caf9b7f491b5b/54595636",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b472fe3d9f3c6685ecf340dab459c857/b1fc4171",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recPu9OfUXHNc9ZSq"
+            ],
+            "E copy": [
+              "recJBKTd1hsVbnME9"
+            ],
+            "ethnicity": {
+              "fr": "Mohawk",
+              "en": "Mohawk"
+            },
+            "country": {
+              "fr": "Canada",
+              "en": "Canada"
+            }
+          },
+          "duration": "0’46’’",
+          "id": "P32",
+          "title": {
+            "fr": "undefined [TRANSLATION NOT FOUND]",
+            "en": "undefined [TRANSLATION NOT FOUND]"
+          },
+          "clipName": {
+            "fr": "P32_KENNETH_FR.mp4",
+            "en": "P32_KENNETH_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/P32.jpg"
+        },
+        {
+          "_id": "recsqJvKO3By1yw7J",
+          "interviewee": {
+            "_id": "recLVF1M8e9Q4tl9M",
+            "Playlist_A": [
+              "recBfbVf65IgqrX6x"
+            ],
+            "id": "Benjamin",
+            "D copy": [
+              "recu6WQ8OPytNS6NT"
+            ],
+            "A copy": [
+              "recuSau9WXiUosDsb",
+              "recQmcOFegd6fLPYF"
+            ],
+            "name": "Benjamin Andres Ilabaca De La Puente",
+            "C copy": [
+              "recSC53nLwTB3MebS"
+            ],
+            "thumbnail": [
+              {
+                "id": "att0tLPAy3iwMtkwG",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/f8f719b8b2605e4696a943f7d6927e55/23822bc0/Benjamin.jpg",
+                "filename": "Benjamin.jpg",
+                "size": 23828,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/3fbac1605e31dff3ca55c008c41bd412/021debb2",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/4afc2eb9402d33bc088f9c87acffd02b/16c106b6",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/9e178b04a22f35d7ed699108c0bc61ae/6f8ca091",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "E copy": [
+              "recsqJvKO3By1yw7J"
+            ],
+            "ethnicity": {
+              "fr": "Rapa Nui",
+              "en": "Rapa Nui"
+            },
+            "country": {
+              "fr": "Chili",
+              "en": "Chile"
+            }
+          },
+          "duration": "0’38’’",
+          "id": "P33",
+          "title": {
+            "fr": "undefined [TRANSLATION NOT FOUND]",
+            "en": "undefined [TRANSLATION NOT FOUND]"
+          },
+          "clipName": {
+            "fr": "P33_BENJAMIN_FR.mp4",
+            "en": "P33_BENJAMIN_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/P33.jpg"
+        },
+        {
+          "_id": "recCkKZP9cypd8GBD",
+          "interviewee": {
+            "_id": "recxjemG0UbptPA1p",
+            "id": "Duane",
+            "A copy": [
+              "recSrP4Ecu8JE31ku"
+            ],
+            "name": "Duane « Chili » Yazzie",
+            "C copy": [
+              "reczGu88Opbii1mnK",
+              "recf6X2y2wITBXC19"
+            ],
+            "thumbnail": [
+              {
+                "id": "attL2ZStn1fid6Juu",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/a285a9a29ee26f78a9e85694deb5d22c/d12e4ae3/Duane.jpg",
+                "filename": "Duane.jpg",
+                "size": 22406,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/1c19189a7768ce1605c5c1b0d5e354df/5929b966",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8008424544f17022d18d7db387b9b478/82303ced",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/a3c9c8d1cdc4e3f77abcebba2db74231/8fb8ca85",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recWStfWocKOE7uwa"
+            ],
+            "E copy": [
+              "recCkKZP9cypd8GBD"
+            ],
+            "ethnicity": {
+              "fr": "Diné (Navajo)",
+              "en": "Diné (Navajo)"
+            },
+            "country": {
+              "fr": "États-Unis",
+              "en": "United States"
+            }
+          },
+          "duration": "0’58’’",
+          "id": "P34",
+          "title": {
+            "fr": "undefined [TRANSLATION NOT FOUND]",
+            "en": "undefined [TRANSLATION NOT FOUND]"
+          },
+          "clipName": {
+            "fr": "P34_DUANE_FR.mp4",
+            "en": "P34_DUANE_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/P34.jpg"
+        },
+        {
+          "_id": "recuKctV7JcnwRcyt",
+          "interviewee": {
+            "_id": "recf8Y5WFwBHilxVH",
+            "id": "Pablo",
+            "D copy": [
+              "recfs5G7CrW5tqBEM"
+            ],
+            "name": "Pablo Mis",
+            "thumbnail": [
+              {
+                "id": "attUg7gUwvutl6Nue",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/1af48540570293a96025d5dabfb4ebe3/bd345d0d/Pablo.jpg",
+                "filename": "Pablo.jpg",
+                "size": 26796,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/46827d02eb26906ff91622b2d2b2904e/b95c66ec",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/660c8a42f1d4c738e7a6074351ed25d0/9a3ec143",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/5a7be34012b4f8b17159802371395767/b9fcf10b",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recZi1W3zzwioL2el"
+            ],
+            "E copy": [
+              "recuKctV7JcnwRcyt"
+            ],
+            "B copy": [
+              "recGqZcUuzKQdXEag",
+              "recbfAsitzBeK4DsD"
+            ],
+            "ethnicity": {
+              "fr": "Maya Q’eqchi’",
+              "en": "Maya Q’eqchi’"
+            },
+            "country": {
+              "fr": "Belize",
+              "en": "Belize"
+            }
+          },
+          "duration": "0’19’’",
+          "id": "P35",
+          "title": {
+            "fr": "undefined [TRANSLATION NOT FOUND]",
+            "en": "undefined [TRANSLATION NOT FOUND]"
+          },
+          "clipName": {
+            "fr": "P35_PABLO_FR.mp4",
+            "en": "P35_PABLO_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/P35.jpg"
+        },
+        {
+          "_id": "recEPu6YY7FQBf9x0",
+          "interviewee": {
+            "_id": "recIjJw2jpnoGyDTb",
+            "Playlist_A": [
+              "rec924kOMNbfMX9KR"
+            ],
+            "id": "Binota",
+            "name": "Binota Moy Dhamai",
+            "C copy": [
+              "recDVHQCE9Ke00Cio",
+              "recSoZtO34isP3Lfs"
+            ],
+            "thumbnail": [
+              {
+                "id": "attP9Fv029FWO8AQd",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/947260e37ad30246bcec9fecaf0502fe/c424536a/Binota.jpg",
+                "filename": "Binota.jpg",
+                "size": 34861,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/e6147bc94fec8e93cf681ddaaff257a5/91bb0e14",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/0916bbdaaf79bb1aa92119cde0912617/03ff0153",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/bb7bebce499384833343406c574bee60/d8de143b",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recpER1G5DzWMRbxu"
+            ],
+            "E copy": [
+              "recEPu6YY7FQBf9x0"
+            ],
+            "ethnicity": {
+              "fr": "Jumma-Tripura",
+              "en": "Jumma-Tripura"
+            },
+            "country": {
+              "fr": "Bangladesh",
+              "en": "Bangladesh"
+            }
+          },
+          "duration": "0’20’’",
+          "id": "P36",
+          "title": {
+            "fr": "undefined [TRANSLATION NOT FOUND]",
+            "en": "undefined [TRANSLATION NOT FOUND]"
+          },
+          "clipName": {
+            "fr": "P36_BINOTA_FR.mp4",
+            "en": "P36_BINOTA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/P36.jpg"
+        },
+        {
+          "_id": "recGkpgbmJCkysR7P",
+          "interviewee": {
+            "_id": "recEH1GYv2y7HdGTt",
+            "Playlist_A": [
+              "recExXy01O54WEmeU"
+            ],
+            "id": "Shankar",
+            "name": "Shankar Limbu",
+            "C copy": [
+              "recUP0smeaY2SWYqg",
+              "recU1j4RlNzcFxcik"
+            ],
+            "thumbnail": [
+              {
+                "id": "attJaYgp8az6wg0Ar",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/68ab97b7e258787731a069fed6bd3f1e/a2109d92/Shankar.jpg",
+                "filename": "Shankar.jpg",
+                "size": 18434,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/d31996a29e0ae006e055acd753d8d6d2/5de27967",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/9f5a62fe2601db430b9948fb5600e572/c7b45a27",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b4e2f2ad2b88edd53a0d8137f862d6ee/727f9457",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recPV7KIvcIdyQSX7"
+            ],
+            "E copy": [
+              "recGkpgbmJCkysR7P"
+            ],
+            "B copy": [
+              "recRL0yrhTeJiTfWt"
+            ],
+            "ethnicity": {
+              "fr": "Limbu",
+              "en": "Limbu"
+            },
+            "country": {
+              "fr": "Népal",
+              "en": "Nepal"
+            }
+          },
+          "duration": "0’21’’",
+          "id": "P37",
+          "title": {
+            "fr": "undefined [TRANSLATION NOT FOUND]",
+            "en": "undefined [TRANSLATION NOT FOUND]"
+          },
+          "clipName": {
+            "fr": "P37_SHANKAR_FR.mp4",
+            "en": "P37_SHANKAR_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/P37.jpg"
+        },
+        {
+          "_id": "reca3pCoIMu6ZqLWD",
+          "interviewee": {
+            "_id": "recP2jDJlkGyVRWUL",
+            "id": "Moha",
+            "name": "Moha Tawja",
+            "C copy": [
+              "recvgl9ZlQq6vk2A8"
+            ],
+            "thumbnail": [
+              {
+                "id": "att6Yy8DUQ7XFvQiY",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/5a74c646eb9fb864c54951245f92c6a1/a81db1d4/Moha.jpg",
+                "filename": "Moha.jpg",
+                "size": 21537,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b1c167fecf44865572d8e9b2b185cf4d/e50ae36e",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/94b50673deb6224a68ac9eac325fe8a0/8e7b45e9",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/a1c6bc1de565ec99e2c9f72bb64c0151/080e5c99",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recuGF3RgI4UyqVMF"
+            ],
+            "E copy": [
+              "reca3pCoIMu6ZqLWD"
+            ],
+            "ethnicity": {
+              "fr": "Amazigh",
+              "en": "Amazigh"
+            },
+            "country": {
+              "fr": "Maroc",
+              "en": "Morocco"
+            }
+          },
+          "duration": "1’59’’",
+          "id": "P38",
+          "title": {
+            "fr": "undefined [TRANSLATION NOT FOUND]",
+            "en": "undefined [TRANSLATION NOT FOUND]"
+          },
+          "clipName": {
+            "fr": "P38_MOHA_FR.mp4",
+            "en": "P38_MOHA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/P38.jpg"
+        },
+        {
+          "_id": "rec484jyDf2HjNJfH",
+          "interviewee": {
+            "_id": "recoRrRIVr5nQ9nzA",
+            "Playlist_A": [
+              "rec1Ic9HTWCJPYXlU"
+            ],
+            "id": "Hindou",
+            "D copy": [
+              "recDK52AhkVHYWyob"
+            ],
+            "name": "Hindou Oumarou Ibrahim",
+            "C copy": [
+              "recG9o4jzbfZvBvSl",
+              "recyjhfOllbnqEcX8"
+            ],
+            "thumbnail": [
+              {
+                "id": "attYMu6ucA9cJjMQH",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/b9d321b24cc10d2907e1154fba7bf6d1/9745bf0c/Hindou.jpg",
+                "filename": "Hindou.jpg",
+                "size": 20528,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8853244346be78e9db2abd3ff14a747d/4a6299e9",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/db7894b583fa3b2e3c00b48a372187ff/fac3af92",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/5e525e93ba2bef32bb250809c42559aa/a1fada38",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "E copy": [
+              "rec484jyDf2HjNJfH"
+            ],
+            "ethnicity": {
+              "fr": "Mbororo",
+              "en": "Mbororo"
+            },
+            "country": {
+              "fr": "Tchad",
+              "en": "Chad"
+            }
+          },
+          "duration": "1’17’’",
+          "id": "P46",
+          "title": {
+            "fr": "undefined [TRANSLATION NOT FOUND]",
+            "en": "undefined [TRANSLATION NOT FOUND]"
+          },
+          "clipName": {
+            "fr": "P46_HINDOU_FR.mp4",
+            "en": "P46_HINDOU_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/P46.jpg"
+        }
+      ]
+    },
+    "M": {
+      "title": {
+        "fr": "Messages",
+        "en": "Messages"
+      },
+      "playlist": [
+        {
+          "_id": "rec2Ga7PR5fHSXlax",
+          "duration": "0’25’’",
+          "interviewee": {
+            "_id": "recVEByf0s7qy1uzL",
+            "id": "Maja",
+            "name": "Maja Kristine Jåma",
+            "C copy": [
+              "recpu9e3jgASx09kr",
+              "recb7aMLXRprYoBiz"
+            ],
+            "thumbnail": [
+              {
+                "id": "attJbNsjCc9Z06sHK",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/30e89d5eb91f0cc80793dc22fd441f09/fd34012f/maya.jpg",
+                "filename": "maya.jpg",
+                "size": 31106,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/80b3e7a746531835ad7c3e62a4e79018/53b40dd7",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/cdf96fede047d5eada140c4ee2817c5b/239521ed",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/c51a06764bd09a224bdc775c8d7c656f/de7e952f",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "rec2Ga7PR5fHSXlax"
+            ],
+            "E copy": [
+              "recueuLcq0lkPafUO"
+            ],
+            "B copy": [
+              "recn5mYoVpzhkjQeQ"
+            ],
+            "ethnicity": {
+              "fr": "Sami",
+              "en": "Sami"
+            },
+            "country": {
+              "fr": "Sápmi, Norvège",
+              "en": "Sápmi, Norway"
+            }
+          },
+          "id": "M39",
+          "title": {
+            "fr": "Prends seulement ce dont tu as besoin",
+            "en": "Only Take What You Need"
+          },
+          "clipName": {
+            "fr": "M39_MAJA_FR.mp4",
+            "en": "M39_MAJA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/M39.jpg"
+        },
+        {
+          "_id": "recPu9OfUXHNc9ZSq",
+          "duration": "0’47’’",
+          "interviewee": {
+            "_id": "rectZkQEjNO1SV1ea",
+            "Playlist_A": [
+              "reczjknTPsvuvIhlN",
+              "recr4sPh6jRfDw9nc",
+              "rec1GUsmzAbRC5Kc0",
+              "reclmpdOusm8yG8l9"
+            ],
+            "id": "Kenneth",
+            "name": "Kenneth Atsenhaienton Deer",
+            "thumbnail": [
+              {
+                "id": "attMgrYnIEvKybrOl",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/013ec9106f300076c40c03f2af3f878c/de1aa2da/Kenneth.jpg",
+                "filename": "Kenneth.jpg",
+                "size": 23564,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8b424200c7dd82c96f108012a71aaa41/3020d96d",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/43ec1fb98b1aa2c1110caf9b7f491b5b/54595636",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b472fe3d9f3c6685ecf340dab459c857/b1fc4171",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recPu9OfUXHNc9ZSq"
+            ],
+            "E copy": [
+              "recJBKTd1hsVbnME9"
+            ],
+            "ethnicity": {
+              "fr": "Mohawk",
+              "en": "Mohawk"
+            },
+            "country": {
+              "fr": "Canada",
+              "en": "Canada"
+            }
+          },
+          "id": "M40",
+          "title": {
+            "fr": "Une maison à Genève pour les peuples autochtones",
+            "en": "A House in Geneva for Indigenous Peoples"
+          },
+          "clipName": {
+            "fr": "M40_KENNETH_FR.mp4",
+            "en": "M40_KENNETH_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/M40.jpg"
+        },
+        {
+          "_id": "recWStfWocKOE7uwa",
+          "duration": "1’23’’",
+          "interviewee": {
+            "_id": "recxjemG0UbptPA1p",
+            "id": "Duane",
+            "A copy": [
+              "recSrP4Ecu8JE31ku"
+            ],
+            "name": "Duane « Chili » Yazzie",
+            "C copy": [
+              "reczGu88Opbii1mnK",
+              "recf6X2y2wITBXC19"
+            ],
+            "thumbnail": [
+              {
+                "id": "attL2ZStn1fid6Juu",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/a285a9a29ee26f78a9e85694deb5d22c/d12e4ae3/Duane.jpg",
+                "filename": "Duane.jpg",
+                "size": 22406,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/1c19189a7768ce1605c5c1b0d5e354df/5929b966",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/8008424544f17022d18d7db387b9b478/82303ced",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/a3c9c8d1cdc4e3f77abcebba2db74231/8fb8ca85",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recWStfWocKOE7uwa"
+            ],
+            "E copy": [
+              "recCkKZP9cypd8GBD"
+            ],
+            "ethnicity": {
+              "fr": "Diné (Navajo)",
+              "en": "Diné (Navajo)"
+            },
+            "country": {
+              "fr": "États-Unis",
+              "en": "United States"
+            }
+          },
+          "id": "M41",
+          "title": {
+            "fr": "Tenir bon face aux dangers",
+            "en": "Standing Firm in the Face of Danger"
+          },
+          "clipName": {
+            "fr": "M41_DUANE_FR.mp4",
+            "en": "M41_DUANE_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/M41.jpg"
+        },
+        {
+          "_id": "recZi1W3zzwioL2el",
+          "duration": "1’33’’",
+          "interviewee": {
+            "_id": "recf8Y5WFwBHilxVH",
+            "id": "Pablo",
+            "D copy": [
+              "recfs5G7CrW5tqBEM"
+            ],
+            "name": "Pablo Mis",
+            "thumbnail": [
+              {
+                "id": "attUg7gUwvutl6Nue",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/1af48540570293a96025d5dabfb4ebe3/bd345d0d/Pablo.jpg",
+                "filename": "Pablo.jpg",
+                "size": 26796,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/46827d02eb26906ff91622b2d2b2904e/b95c66ec",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/660c8a42f1d4c738e7a6074351ed25d0/9a3ec143",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/5a7be34012b4f8b17159802371395767/b9fcf10b",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recZi1W3zzwioL2el"
+            ],
+            "E copy": [
+              "recuKctV7JcnwRcyt"
+            ],
+            "B copy": [
+              "recGqZcUuzKQdXEag",
+              "recbfAsitzBeK4DsD"
+            ],
+            "ethnicity": {
+              "fr": "Maya Q’eqchi’",
+              "en": "Maya Q’eqchi’"
+            },
+            "country": {
+              "fr": "Belize",
+              "en": "Belize"
+            }
+          },
+          "id": "M42",
+          "title": {
+            "fr": "Les peuples autochtones au premier plan",
+            "en": "Indigenous Peoples in the Foreground"
+          },
+          "clipName": {
+            "fr": "M42_PABLO_FR.mp4",
+            "en": "M42_PABLO_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/M42.jpg"
+        },
+        {
+          "_id": "recpER1G5DzWMRbxu",
+          "duration": "1’24’’",
+          "interviewee": {
+            "_id": "recIjJw2jpnoGyDTb",
+            "Playlist_A": [
+              "rec924kOMNbfMX9KR"
+            ],
+            "id": "Binota",
+            "name": "Binota Moy Dhamai",
+            "C copy": [
+              "recDVHQCE9Ke00Cio",
+              "recSoZtO34isP3Lfs"
+            ],
+            "thumbnail": [
+              {
+                "id": "attP9Fv029FWO8AQd",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/947260e37ad30246bcec9fecaf0502fe/c424536a/Binota.jpg",
+                "filename": "Binota.jpg",
+                "size": 34861,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/e6147bc94fec8e93cf681ddaaff257a5/91bb0e14",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/0916bbdaaf79bb1aa92119cde0912617/03ff0153",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/bb7bebce499384833343406c574bee60/d8de143b",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recpER1G5DzWMRbxu"
+            ],
+            "E copy": [
+              "recEPu6YY7FQBf9x0"
+            ],
+            "ethnicity": {
+              "fr": "Jumma-Tripura",
+              "en": "Jumma-Tripura"
+            },
+            "country": {
+              "fr": "Bangladesh",
+              "en": "Bangladesh"
+            }
+          },
+          "id": "M43",
+          "title": {
+            "fr": "Reconnaissance et respect",
+            "en": "Recognition and Respect"
+          },
+          "clipName": {
+            "fr": "M43_BINOTA_FR.mp4",
+            "en": "M43_BINOTA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/M43.jpg"
+        },
+        {
+          "_id": "recPV7KIvcIdyQSX7",
+          "duration": "0‘54‘‘",
+          "interviewee": {
+            "_id": "recEH1GYv2y7HdGTt",
+            "Playlist_A": [
+              "recExXy01O54WEmeU"
+            ],
+            "id": "Shankar",
+            "name": "Shankar Limbu",
+            "C copy": [
+              "recUP0smeaY2SWYqg",
+              "recU1j4RlNzcFxcik"
+            ],
+            "thumbnail": [
+              {
+                "id": "attJaYgp8az6wg0Ar",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/68ab97b7e258787731a069fed6bd3f1e/a2109d92/Shankar.jpg",
+                "filename": "Shankar.jpg",
+                "size": 18434,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/d31996a29e0ae006e055acd753d8d6d2/5de27967",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/9f5a62fe2601db430b9948fb5600e572/c7b45a27",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b4e2f2ad2b88edd53a0d8137f862d6ee/727f9457",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recPV7KIvcIdyQSX7"
+            ],
+            "E copy": [
+              "recGkpgbmJCkysR7P"
+            ],
+            "B copy": [
+              "recRL0yrhTeJiTfWt"
+            ],
+            "ethnicity": {
+              "fr": "Limbu",
+              "en": "Limbu"
+            },
+            "country": {
+              "fr": "Népal",
+              "en": "Nepal"
+            }
+          },
+          "id": "M44",
+          "title": {
+            "fr": "Cela concerne tous les êtres humains",
+            "en": "It’s a Matter of all Human Beings"
+          },
+          "clipName": {
+            "fr": "M44_SHANKAR_FR.mp4",
+            "en": "M44_SHANKAR_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/M44.jpg"
+        },
+        {
+          "_id": "recuGF3RgI4UyqVMF",
+          "duration": "0‘57‘‘",
+          "interviewee": {
+            "_id": "recP2jDJlkGyVRWUL",
+            "id": "Moha",
+            "name": "Moha Tawja",
+            "C copy": [
+              "recvgl9ZlQq6vk2A8"
+            ],
+            "thumbnail": [
+              {
+                "id": "att6Yy8DUQ7XFvQiY",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/5a74c646eb9fb864c54951245f92c6a1/a81db1d4/Moha.jpg",
+                "filename": "Moha.jpg",
+                "size": 21537,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/b1c167fecf44865572d8e9b2b185cf4d/e50ae36e",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/94b50673deb6224a68ac9eac325fe8a0/8e7b45e9",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/a1c6bc1de565ec99e2c9f72bb64c0151/080e5c99",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "P copy": [
+              "recuGF3RgI4UyqVMF"
+            ],
+            "E copy": [
+              "reca3pCoIMu6ZqLWD"
+            ],
+            "ethnicity": {
+              "fr": "Amazigh",
+              "en": "Amazigh"
+            },
+            "country": {
+              "fr": "Maroc",
+              "en": "Morocco"
+            }
+          },
+          "id": "M45",
+          "title": {
+            "fr": "Préserver les bonnes pratiques traditionnelles",
+            "en": "Preserving Good Traditional Practices"
+          },
+          "clipName": {
+            "fr": "M45_MOHA_FR.mp4",
+            "en": "M45_MOHA_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/M45.jpg"
+        }
+      ]
+    },
+    "B14": {
+      "title": {
+        "fr": "Les Îles Marshall",
+        "en": "Marshall Islands"
+      },
+      "playlist": [
+        {
+          "_id": "recStTYtHhtFOXZMW",
+          "id": "B14_1",
+          "thumbnail": "/thumbnails/B14_1.jpg",
+          "duration": "2'13''",
+          "clipName": {
+            "fr": "B14_1.mp4",
+            "en": "B14_1.mp4"
+          },
+          "title": {
+            "fr": "Le dôme",
+            "en": "The Dome"
+          }
+        },
+        {
+          "_id": "recj67CWDejWfxspg",
+          "id": "B14_2",
+          "thumbnail": "/thumbnails/B14_2.jpg",
+          "duration": "2'43''",
+          "clipName": {
+            "fr": "B14_2.mp4",
+            "en": "B14_2.mp4"
+          },
+          "title": {
+            "fr": "Extraits du discours de Tony de Brum lors de la remise du prix Right Livelihood Award",
+            "en": "Excerpts from Tony de Brum's acceptance speech for the 2015 Right Livelihood Award"
+          }
+        },
+        {
+          "_id": "recBNhzaIB7sOVKpe",
+          "id": "B14_3",
+          "thumbnail": "/thumbnails/B14_3.jpg",
+          "duration": "4'04''",
+          "clipName": {
+            "fr": "B14_3.mp4",
+            "en": "B14_3.mp4"
+          },
+          "title": {
+            "fr": "Chère Matafele Peinem",
+            "en": "Dear Matafele Peinem"
+          }
+        }
+      ]
+    },
+    "BNS": {
+      "title": {
+        "fr": "Bonus",
+        "en": "Bonus"
+      },
+      "playlist": [
+        {
+          "_id": "rec1AK3cmaZyvBFHg",
+          "interviewee": {
+            "_id": "rec9qWwkrIsT7ByoH",
+            "id": "Adam",
+            "name": "Adam Kuleit Ole Mwarabu Lemareka",
+            "thumbnail": [
+              {
+                "id": "attIYHiu2i5OvXsSK",
+                "width": 280,
+                "height": 158,
+                "url": "https://dl.airtable.com/.attachments/2b51b9b09fc9b3b34cf4a0cb6aac517f/20a5390b/adam_thumbnail.jpg",
+                "filename": "adam_thumbnail.jpg",
+                "size": 32397,
+                "type": "image/jpeg",
+                "thumbnails": {
+                  "small": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/ddb572a800cfb3c90d09d1c15899717c/5ecf9118",
+                    "width": 64,
+                    "height": 36
+                  },
+                  "large": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/a4e6579fe23f1c121722ac4a1516ad07/e9d227d5",
+                    "width": 280,
+                    "height": 158
+                  },
+                  "full": {
+                    "url": "https://dl.airtable.com/.attachmentThumbnails/925b67671c259890d95683ebe0042984/86e7c3d0",
+                    "width": 3000,
+                    "height": 3000
+                  }
+                }
+              }
+            ],
+            "A copy": [
+              "rec1AK3cmaZyvBFHg"
+            ],
+            "ethnicity": {
+              "fr": "Maasai Parakuiyo",
+              "en": "Maasai Parakuiyo"
+            },
+            "country": {
+              "fr": "Tanzanie",
+              "en": "Tanzania"
+            }
+          },
+          "id": "BNS_1",
+          "title": {
+            "fr": "Le peuple qui parle aux nuages",
+            "en": "The People who Speak to the Clouds"
+          },
+          "clipName": {
+            "fr": "BNS_1_ADAM_FR.mp4",
+            "en": "BNS_1_ADAM_EN.mp4"
+          },
+          "thumbnail": "/thumbnails/BNS_1.jpg"
+        }
+      ]
+    }
+  },
+  "interviewees": [
+    {
+      "_id": "recoRrRIVr5nQ9nzA",
+      "Playlist_A": [
+        "rec1Ic9HTWCJPYXlU"
+      ],
+      "id": "Hindou",
+      "D copy": [
+        "recDK52AhkVHYWyob"
+      ],
+      "name": "Hindou Oumarou Ibrahim",
+      "C copy": [
+        "recG9o4jzbfZvBvSl",
+        "recyjhfOllbnqEcX8"
+      ],
+      "thumbnail": [
+        {
+          "id": "attYMu6ucA9cJjMQH",
+          "width": 280,
+          "height": 158,
+          "url": "https://dl.airtable.com/.attachments/b9d321b24cc10d2907e1154fba7bf6d1/9745bf0c/Hindou.jpg",
+          "filename": "Hindou.jpg",
+          "size": 20528,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8853244346be78e9db2abd3ff14a747d/4a6299e9",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/db7894b583fa3b2e3c00b48a372187ff/fac3af92",
+              "width": 280,
+              "height": 158
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5e525e93ba2bef32bb250809c42559aa/a1fada38",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "E copy": [
+        "rec484jyDf2HjNJfH"
+      ],
+      "ethnicity": {
+        "fr": "Mbororo",
+        "en": "Mbororo"
+      },
+      "country": {
+        "fr": "Tchad",
+        "en": "Chad"
+      }
+    },
+    {
+      "_id": "recEH1GYv2y7HdGTt",
+      "Playlist_A": [
+        "recExXy01O54WEmeU"
+      ],
+      "id": "Shankar",
+      "name": "Shankar Limbu",
+      "C copy": [
+        "recUP0smeaY2SWYqg",
+        "recU1j4RlNzcFxcik"
+      ],
+      "thumbnail": [
+        {
+          "id": "attJaYgp8az6wg0Ar",
+          "width": 280,
+          "height": 158,
+          "url": "https://dl.airtable.com/.attachments/68ab97b7e258787731a069fed6bd3f1e/a2109d92/Shankar.jpg",
+          "filename": "Shankar.jpg",
+          "size": 18434,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d31996a29e0ae006e055acd753d8d6d2/5de27967",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9f5a62fe2601db430b9948fb5600e572/c7b45a27",
+              "width": 280,
+              "height": 158
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b4e2f2ad2b88edd53a0d8137f862d6ee/727f9457",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "P copy": [
+        "recPV7KIvcIdyQSX7"
+      ],
+      "E copy": [
+        "recGkpgbmJCkysR7P"
+      ],
+      "B copy": [
+        "recRL0yrhTeJiTfWt"
+      ],
+      "ethnicity": {
+        "fr": "Limbu",
+        "en": "Limbu"
+      },
+      "country": {
+        "fr": "Népal",
+        "en": "Nepal"
+      }
+    },
+    {
+      "_id": "recIjJw2jpnoGyDTb",
+      "Playlist_A": [
+        "rec924kOMNbfMX9KR"
+      ],
+      "id": "Binota",
+      "name": "Binota Moy Dhamai",
+      "C copy": [
+        "recDVHQCE9Ke00Cio",
+        "recSoZtO34isP3Lfs"
+      ],
+      "thumbnail": [
+        {
+          "id": "attP9Fv029FWO8AQd",
+          "width": 280,
+          "height": 158,
+          "url": "https://dl.airtable.com/.attachments/947260e37ad30246bcec9fecaf0502fe/c424536a/Binota.jpg",
+          "filename": "Binota.jpg",
+          "size": 34861,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e6147bc94fec8e93cf681ddaaff257a5/91bb0e14",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0916bbdaaf79bb1aa92119cde0912617/03ff0153",
+              "width": 280,
+              "height": 158
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/bb7bebce499384833343406c574bee60/d8de143b",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "P copy": [
+        "recpER1G5DzWMRbxu"
+      ],
+      "E copy": [
+        "recEPu6YY7FQBf9x0"
+      ],
+      "ethnicity": {
+        "fr": "Jumma-Tripura",
+        "en": "Jumma-Tripura"
+      },
+      "country": {
+        "fr": "Bangladesh",
+        "en": "Bangladesh"
+      }
+    },
+    {
+      "_id": "recLVF1M8e9Q4tl9M",
+      "Playlist_A": [
+        "recBfbVf65IgqrX6x"
+      ],
+      "id": "Benjamin",
+      "D copy": [
+        "recu6WQ8OPytNS6NT"
+      ],
+      "A copy": [
+        "recuSau9WXiUosDsb",
+        "recQmcOFegd6fLPYF"
+      ],
+      "name": "Benjamin Andres Ilabaca De La Puente",
+      "C copy": [
+        "recSC53nLwTB3MebS"
+      ],
+      "thumbnail": [
+        {
+          "id": "att0tLPAy3iwMtkwG",
+          "width": 280,
+          "height": 158,
+          "url": "https://dl.airtable.com/.attachments/f8f719b8b2605e4696a943f7d6927e55/23822bc0/Benjamin.jpg",
+          "filename": "Benjamin.jpg",
+          "size": 23828,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3fbac1605e31dff3ca55c008c41bd412/021debb2",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4afc2eb9402d33bc088f9c87acffd02b/16c106b6",
+              "width": 280,
+              "height": 158
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9e178b04a22f35d7ed699108c0bc61ae/6f8ca091",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "E copy": [
+        "recsqJvKO3By1yw7J"
+      ],
+      "ethnicity": {
+        "fr": "Rapa Nui",
+        "en": "Rapa Nui"
+      },
+      "country": {
+        "fr": "Chili",
+        "en": "Chile"
+      }
+    },
+    {
+      "_id": "rectZkQEjNO1SV1ea",
+      "Playlist_A": [
+        "reczjknTPsvuvIhlN",
+        "recr4sPh6jRfDw9nc",
+        "rec1GUsmzAbRC5Kc0",
+        "reclmpdOusm8yG8l9"
+      ],
+      "id": "Kenneth",
+      "name": "Kenneth Atsenhaienton Deer",
+      "thumbnail": [
+        {
+          "id": "attMgrYnIEvKybrOl",
+          "width": 280,
+          "height": 158,
+          "url": "https://dl.airtable.com/.attachments/013ec9106f300076c40c03f2af3f878c/de1aa2da/Kenneth.jpg",
+          "filename": "Kenneth.jpg",
+          "size": 23564,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8b424200c7dd82c96f108012a71aaa41/3020d96d",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/43ec1fb98b1aa2c1110caf9b7f491b5b/54595636",
+              "width": 280,
+              "height": 158
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b472fe3d9f3c6685ecf340dab459c857/b1fc4171",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "P copy": [
+        "recPu9OfUXHNc9ZSq"
+      ],
+      "E copy": [
+        "recJBKTd1hsVbnME9"
+      ],
+      "ethnicity": {
+        "fr": "Mohawk",
+        "en": "Mohawk"
+      },
+      "country": {
+        "fr": "Canada",
+        "en": "Canada"
+      }
+    },
+    {
+      "_id": "recxjemG0UbptPA1p",
+      "id": "Duane",
+      "A copy": [
+        "recSrP4Ecu8JE31ku"
+      ],
+      "name": "Duane « Chili » Yazzie",
+      "C copy": [
+        "reczGu88Opbii1mnK",
+        "recf6X2y2wITBXC19"
+      ],
+      "thumbnail": [
+        {
+          "id": "attL2ZStn1fid6Juu",
+          "width": 280,
+          "height": 158,
+          "url": "https://dl.airtable.com/.attachments/a285a9a29ee26f78a9e85694deb5d22c/d12e4ae3/Duane.jpg",
+          "filename": "Duane.jpg",
+          "size": 22406,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1c19189a7768ce1605c5c1b0d5e354df/5929b966",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8008424544f17022d18d7db387b9b478/82303ced",
+              "width": 280,
+              "height": 158
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a3c9c8d1cdc4e3f77abcebba2db74231/8fb8ca85",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "P copy": [
+        "recWStfWocKOE7uwa"
+      ],
+      "E copy": [
+        "recCkKZP9cypd8GBD"
+      ],
+      "ethnicity": {
+        "fr": "Diné (Navajo)",
+        "en": "Diné (Navajo)"
+      },
+      "country": {
+        "fr": "États-Unis",
+        "en": "United States"
+      }
+    },
+    {
+      "_id": "recf8Y5WFwBHilxVH",
+      "id": "Pablo",
+      "D copy": [
+        "recfs5G7CrW5tqBEM"
+      ],
+      "name": "Pablo Mis",
+      "thumbnail": [
+        {
+          "id": "attUg7gUwvutl6Nue",
+          "width": 280,
+          "height": 158,
+          "url": "https://dl.airtable.com/.attachments/1af48540570293a96025d5dabfb4ebe3/bd345d0d/Pablo.jpg",
+          "filename": "Pablo.jpg",
+          "size": 26796,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/46827d02eb26906ff91622b2d2b2904e/b95c66ec",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/660c8a42f1d4c738e7a6074351ed25d0/9a3ec143",
+              "width": 280,
+              "height": 158
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5a7be34012b4f8b17159802371395767/b9fcf10b",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "P copy": [
+        "recZi1W3zzwioL2el"
+      ],
+      "E copy": [
+        "recuKctV7JcnwRcyt"
+      ],
+      "B copy": [
+        "recGqZcUuzKQdXEag",
+        "recbfAsitzBeK4DsD"
+      ],
+      "ethnicity": {
+        "fr": "Maya Q’eqchi’",
+        "en": "Maya Q’eqchi’"
+      },
+      "country": {
+        "fr": "Belize",
+        "en": "Belize"
+      }
+    },
+    {
+      "_id": "recVEByf0s7qy1uzL",
+      "id": "Maja",
+      "name": "Maja Kristine Jåma",
+      "C copy": [
+        "recpu9e3jgASx09kr",
+        "recb7aMLXRprYoBiz"
+      ],
+      "thumbnail": [
+        {
+          "id": "attJbNsjCc9Z06sHK",
+          "width": 280,
+          "height": 158,
+          "url": "https://dl.airtable.com/.attachments/30e89d5eb91f0cc80793dc22fd441f09/fd34012f/maya.jpg",
+          "filename": "maya.jpg",
+          "size": 31106,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/80b3e7a746531835ad7c3e62a4e79018/53b40dd7",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cdf96fede047d5eada140c4ee2817c5b/239521ed",
+              "width": 280,
+              "height": 158
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c51a06764bd09a224bdc775c8d7c656f/de7e952f",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "P copy": [
+        "rec2Ga7PR5fHSXlax"
+      ],
+      "E copy": [
+        "recueuLcq0lkPafUO"
+      ],
+      "B copy": [
+        "recn5mYoVpzhkjQeQ"
+      ],
+      "ethnicity": {
+        "fr": "Sami",
+        "en": "Sami"
+      },
+      "country": {
+        "fr": "Sápmi, Norvège",
+        "en": "Sápmi, Norway"
+      }
+    },
+    {
+      "_id": "recP2jDJlkGyVRWUL",
+      "id": "Moha",
+      "name": "Moha Tawja",
+      "C copy": [
+        "recvgl9ZlQq6vk2A8"
+      ],
+      "thumbnail": [
+        {
+          "id": "att6Yy8DUQ7XFvQiY",
+          "width": 280,
+          "height": 158,
+          "url": "https://dl.airtable.com/.attachments/5a74c646eb9fb864c54951245f92c6a1/a81db1d4/Moha.jpg",
+          "filename": "Moha.jpg",
+          "size": 21537,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b1c167fecf44865572d8e9b2b185cf4d/e50ae36e",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/94b50673deb6224a68ac9eac325fe8a0/8e7b45e9",
+              "width": 280,
+              "height": 158
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a1c6bc1de565ec99e2c9f72bb64c0151/080e5c99",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "P copy": [
+        "recuGF3RgI4UyqVMF"
+      ],
+      "E copy": [
+        "reca3pCoIMu6ZqLWD"
+      ],
+      "ethnicity": {
+        "fr": "Amazigh",
+        "en": "Amazigh"
+      },
+      "country": {
+        "fr": "Maroc",
+        "en": "Morocco"
+      }
+    },
+    {
+      "_id": "rec9qWwkrIsT7ByoH",
+      "id": "Adam",
+      "name": "Adam Kuleit Ole Mwarabu Lemareka",
+      "thumbnail": [
+        {
+          "id": "attIYHiu2i5OvXsSK",
+          "width": 280,
+          "height": 158,
+          "url": "https://dl.airtable.com/.attachments/2b51b9b09fc9b3b34cf4a0cb6aac517f/20a5390b/adam_thumbnail.jpg",
+          "filename": "adam_thumbnail.jpg",
+          "size": 32397,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ddb572a800cfb3c90d09d1c15899717c/5ecf9118",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a4e6579fe23f1c121722ac4a1516ad07/e9d227d5",
+              "width": 280,
+              "height": 158
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/925b67671c259890d95683ebe0042984/86e7c3d0",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "A copy": [
+        "rec1AK3cmaZyvBFHg"
+      ],
+      "ethnicity": {
+        "fr": "Maasai Parakuiyo",
+        "en": "Maasai Parakuiyo"
+      },
+      "country": {
+        "fr": "Tanzanie",
+        "en": "Tanzania"
+      }
+    },
+    {
+      "_id": "recn0UZpI1jplM1jv",
+      "ethnicity": {
+        "fr": "undefined [TRANSLATION NOT FOUND]",
+        "en": "undefined [TRANSLATION NOT FOUND]"
+      },
+      "country": {
+        "fr": "undefined [TRANSLATION NOT FOUND]",
+        "en": "undefined [TRANSLATION NOT FOUND]"
+      }
+    }
+  ],
+  "playlistCollections": [
+    {
+      "_id": "recMX6aHqTGOaWoag",
+      "collection": "P, A, B, C, D, E, M,BNS",
+      "id": "B3"
+    }
+  ]
+}

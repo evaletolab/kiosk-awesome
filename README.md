@@ -24,11 +24,9 @@
 
 * sudo ./kiosk-writeusb.sh
 
-### Add http partition on USB
-
+### Add persistent partition on USB 🤘 ↴
 * gparted /dev/sda (vfat32)
 * bash ./kiosk-installapp.sh
-
 
 ## Furthermore 
 * https://willhaley.com/blog/custom-debian-live-environment/

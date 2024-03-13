@@ -1,3 +1,9 @@
+** hardware ...**
+![image](https://github.com/evaletolab/kiosk-awesome/assets/1422935/65664e5b-d5ac-466f-9cb5-6f12747727ce)
+
+** software ...**
+![image](https://github.com/evaletolab/kiosk-awesome/assets/1422935/5b57154c-8bfa-44e5-8105-fc8a6dd1b065)
+
 ## Build Video Player 
 
 * cd video-player
